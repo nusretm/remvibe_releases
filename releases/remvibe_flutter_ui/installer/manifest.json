@@ -9,5 +9,6 @@
   "resources": {
     "logo": "resources/logo.png",
     "sidebar": null
-  }
+  },
+  "defaultChannel": "internal"
 }
