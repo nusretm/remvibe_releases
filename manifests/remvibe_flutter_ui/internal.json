@@ -34,7 +34,8 @@
           "asset": "remvibe_flutter_ui-windows-x64-43882940812-1-signed.nta",
           "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-43882940812-1/remvibe_flutter_ui-windows-x64-43882940812-1-signed.nta",
           "size": 14151959,
-          "sha256": "2caa88eaea03f1686bdc5639060dac07c174f2a45fbbc900bd3277671d00105e"
+          "sha256": "2caa88eaea03f1686bdc5639060dac07c174f2a45fbbc900bd3277671d00105e",
+          "assetId": 763475859
         }
       ],
       "updates": [
@@ -46,7 +47,8 @@
           "asset": "remvibe_flutter_ui-windows-x64-43882940812-1-signed.nta",
           "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-43882940812-1/remvibe_flutter_ui-windows-x64-43882940812-1-signed.nta",
           "size": 14151959,
-          "sha256": "2caa88eaea03f1686bdc5639060dac07c174f2a45fbbc900bd3277671d00105e"
+          "sha256": "2caa88eaea03f1686bdc5639060dac07c174f2a45fbbc900bd3277671d00105e",
+          "assetId": 763475859
         }
       ]
     },
@@ -73,7 +75,8 @@
           "asset": "remvibe_flutter_ui-windows-x64-44330394298-3-signed.nta",
           "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-44330394298-3/remvibe_flutter_ui-windows-x64-44330394298-3-signed.nta",
           "size": 14151935,
-          "sha256": "4dcd2b2aeee3b53447c3915f60a24d2ecfce173c740570936849ff27b11f7c24"
+          "sha256": "4dcd2b2aeee3b53447c3915f60a24d2ecfce173c740570936849ff27b11f7c24",
+          "assetId": 764528426
         }
       ],
       "updates": [
@@ -85,7 +88,8 @@
           "asset": "remvibe_flutter_ui-windows-x64-44330394298-3-signed.nta",
           "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-44330394298-3/remvibe_flutter_ui-windows-x64-44330394298-3-signed.nta",
           "size": 14151935,
-          "sha256": "4dcd2b2aeee3b53447c3915f60a24d2ecfce173c740570936849ff27b11f7c24"
+          "sha256": "4dcd2b2aeee3b53447c3915f60a24d2ecfce173c740570936849ff27b11f7c24",
+          "assetId": 764528426
         }
       ]
     }
