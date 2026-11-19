@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "projectId": "remvibe_flutter_ui",
+  "name": "RemVibe Flutter UI Example",
+  "description": "RemVibe Flutter UI Windows example application",
+  "channels": [
+    "internal"
+  ],
+  "resources": {
+    "logo": "resources/logo.png",
+    "sidebar": null
+  }
+}
