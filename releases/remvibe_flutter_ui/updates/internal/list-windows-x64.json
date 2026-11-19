@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "projectId": "remvibe_flutter_ui",
+  "channel": "internal",
+  "os": "windows",
+  "arch": "x64",
+  "latest": "0.1.1",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "minVer": null,
+      "maxVer": null,
+      "releaseTag": "remvibe_flutter_ui-windows-x64-43882940812-1",
+      "releaseSequence": 447137074,
+      "artifact": {
+        "platform": "windows",
+        "arch": "x64",
+        "installationType": "runtime-directory",
+        "type": "nta",
+        "asset": "remvibe_flutter_ui-windows-x64-43882940812-1-signed.nta",
+        "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-43882940812-1/remvibe_flutter_ui-windows-x64-43882940812-1-signed.nta",
+        "size": 14151959,
+        "sha256": "2caa88eaea03f1686bdc5639060dac07c174f2a45fbbc900bd3277671d00105e",
+        "assetId": 763475859
+      },
+      "releaseMetadata": {
+        "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-43882940812-1/remvibe_flutter_ui-windows-x64-43882940812-1-signed.release.json",
+        "size": 582,
+        "sha256": "24716b0b955423a0c4cf643c89e83f5243f2561dd1ae12372f5b6a799e14fa80"
+      },
+      "releaseSignature": {
+        "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-43882940812-1/remvibe_flutter_ui-windows-x64-43882940812-1-signed.release.sig.json",
+        "size": 366,
+        "sha256": "e0d6b872684886e7f4cce4fec0fc771ffd5346a17c0af35e70e9e622fc69df12"
+      }
+    },
+    {
+      "version": "0.1.1",
+      "minVer": null,
+      "maxVer": null,
+      "releaseTag": "remvibe_flutter_ui-windows-x64-44330394298-3",
+      "releaseSequence": 450246829,
+      "artifact": {
+        "platform": "windows",
+        "arch": "x64",
+        "installationType": "runtime-directory",
+        "type": "nta",
+        "asset": "remvibe_flutter_ui-windows-x64-44330394298-3-signed.nta",
+        "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-44330394298-3/remvibe_flutter_ui-windows-x64-44330394298-3-signed.nta",
+        "size": 14151935,
+        "sha256": "4dcd2b2aeee3b53447c3915f60a24d2ecfce173c740570936849ff27b11f7c24",
+        "assetId": 764528426
+      },
+      "releaseMetadata": {
+        "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-44330394298-3/remvibe_flutter_ui-windows-x64-44330394298-3-signed.release.json",
+        "size": 582,
+        "sha256": "fbc2fd7637ae10b7c27065220cf602b7b51194031af0837dd6b11eb8f72ea0e6"
+      },
+      "releaseSignature": {
+        "url": "https://github.com/nusretm/remvibe_releases/releases/download/remvibe_flutter_ui-windows-x64-44330394298-3/remvibe_flutter_ui-windows-x64-44330394298-3-signed.release.sig.json",
+        "size": 366,
+        "sha256": "cde4e765ef14227b2491fe59d37b62ba21fac10f302569ce73212e90c5ff366e"
+      }
+    }
+  ]
+}
